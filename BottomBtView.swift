@@ -1,10 +1,4 @@
-//
-//  BottomBtView.swift
-//  SWCampus
-//
-//  Created by 11111 on 2017/1/24.
-//  Copyright © 2017年 WanHang. All rights reserved.
-//
+
 
 
 //  底部按钮视图，底色d9d9d9，按钮颜色333333,文字颜色ffffff

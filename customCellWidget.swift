@@ -1,10 +1,4 @@
-//
-//  customCellWidget.swift
-//  SWCampus
-//
-//  Created by 11111 on 2017/3/14.
-//  Copyright © 2017年 WanHang. All rights reserved.
-//
+
 
 import UIKit
 
